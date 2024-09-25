@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Valentin](https://ValDV.github.io/)! 😁
+### Hi there, 👋 I am [Valentin](https://ValDV.github.io/)
 
 Hello, my name is Valentin Rosier and I am a BTEC's student majoring in Computer Science and Networks.<br>I am learning programming languages like Javascript, C / C++ and cybersecurity.
 
